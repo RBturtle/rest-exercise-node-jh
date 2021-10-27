@@ -14,7 +14,8 @@ module.exports = {
         {"id": "7", "name": "Chelonia mydas - pacific green turtle"},
         {"id": "8", "name": "Lepidochelys olivacea -olive ridly sea turtle"},
         {"id": "9", "name": "Natator depressus - flat back sea turtle"},
-        {"id": "10", "name": "Caretta caretta - loggerhead sea turtle"}
+        {"id": "10", "name": "Caretta caretta - loggerhead sea turtle"},
+        {"id": "11", "name": "Dermochelys coriacea - leatherback sea turtle"}
     ],
     visit: [
         {"id": "1", "patient_id": "1", "doctor_id": "1", "completed": "1"},
