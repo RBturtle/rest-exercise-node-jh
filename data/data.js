@@ -5,7 +5,7 @@ module.exports = {
         {"id": "3", "name": "Jack Highland"}
     ],
     doctor: [
-        {"id": "1", "name": "Frank Waiton"},
+        {"id": "1", "name": "Eunotosaurus africanus"}, //changed name to turtle species
         {"id": "2", "name": "Phil Mckenzie"},
         {"id": "3", "name": "Jen Frye"},
         {"id": "4", "name": "Craig Helbling"},
