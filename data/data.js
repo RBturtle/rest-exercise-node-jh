@@ -5,16 +5,16 @@ module.exports = {
         {"id": "3", "name": "Jack Highland"}
     ],
     doctor: [
-        {"id": "1", "name": "Eunotosaurus africanus"}, //changed name to turtle species
-        {"id": "2", "name": "Phil Mckenzie"},
-        {"id": "3", "name": "Jen Frye"},
-        {"id": "4", "name": "Craig Helbling"},
-        {"id": "5", "name": "Karen Macarthur"},
-        {"id": "6", "name": "Alan Gurniak"},
-        {"id": "7", "name": "Jose Herrera"},
-        {"id": "8", "name": "Robert Mcsweeney"},
-        {"id": "9", "name": "Rosalina Guerriero"},
-        {"id": "10", "name": "Tim Olsen"}
+        {"id": "1", "name": "Eunotosaurus africanus - stout backed lizard"}, //changed name to turtle species
+        {"id": "2", "name": "Odontochelys semitestacea - toothed turtle with a half shell"},
+        {"id": "3", "name": "Proganochelys quenstedi - extinct, primitive stem turtle"},
+        {"id": "4", "name": "Santanachelys gaffneyi -extinct, sea turtle"},
+        {"id": "5", "name": "Archelon ischyros - first early turtle"},
+        {"id": "6", "name": "Eretmochelys imbricata - harksbill sea turtle"},
+        {"id": "7", "name": "Chelonia mydas - pacific green turtle"},
+        {"id": "8", "name": "Lepidochelys olivacea -olive ridly sea turtle"},
+        {"id": "9", "name": "Natator depressus - flat back sea turtle"},
+        {"id": "10", "name": "Caretta caretta - loggerhead sea turtle"}
     ],
     visit: [
         {"id": "1", "patient_id": "1", "doctor_id": "1", "completed": "1"},
