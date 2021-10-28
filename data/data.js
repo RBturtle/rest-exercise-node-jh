@@ -1,8 +1,21 @@
 module.exports = {
     patient: [
-        {"id": "1", "name": "John Bevins"},
-        {"id": "2", "name": "John Smith"},
-        {"id": "3", "name": "Jack Highland"}
+        {"id": "1", "name": "algae"},
+        {"id": "2", "name": "seaweed"},
+        {"id": "3", "name": "jelly fish"},
+        {"id": "", "name": "sea squirts"},
+        {"id": "", "name": "crabs"},
+        {"id": "", "name": "conchs"},
+        {"id": "", "name": "sponges"},
+        {"id": "", "name": "fish"},
+        {"id": "", "name": "shrimps"},
+        {"id": "", "name": "mollusks"},
+        {"id": "", "name": "lobster"},
+        {"id": "", "name": "corals"},
+        {"id": "", "name": "shredded apples"},
+        {"id": "", "name": "zucchini"},
+        {"id": "", "name": "water hyacinth"},
+        {"id": "", "name": "duckweed"},
     ],
     doctor: [
         {"id": "1", "name": "Eunotosaurus africanus - stout backed lizard"}, //changed name to turtle species
